@@ -1,0 +1,48 @@
+.judul1{
+    font-family: "Poppins", sans-serif;
+    color : green;
+    margin : 20px
+    
+}
+
+.judul2 {
+    font-family: "Poppins", sans-serif;
+    color : black;
+    margin : 20px;
+    text-align: center;
+}
+
+
+.gambar1{
+    width : 80%;
+    margin : 10px
+}
+
+.link {
+    display: flex;
+    gap : 10px;
+    font-family: "Poppins", sans-serif;
+}
+
+body{
+    background-color: #EDFAEE;
+}
+
+.navy{
+    font-family: "Poppins", sans-serif;
+    border : 1px green;
+    display : inline;
+    
+}
+
+.baju {
+    margin-top: auto;
+    height : 100px;
+    margin-bottom: auto;
+    display: flex;
+    gap : 10px;
+}
+
+.paragraf {
+    font-family: "Poppins", sans-serif;
+}
